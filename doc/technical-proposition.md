@@ -1,6 +1,6 @@
 # Proposition technique pour la réalisation du projet
 
-![technical proposition image](img/work-office.jpg)
+![technical proposition image](/img/work-office.jpg)
    
 Dans cette présentation technique, nous détaillerons les choix techniques retenus pour chaque composante du projet, en expliquant les raisons qui ont motivé ces choix. Nous présenterons également l'architecture technique globale du projet, ainsi que les différentes étapes de développement prévues.
 
@@ -23,7 +23,7 @@ Ce document peut être consulté en cliquant <a href="benchmark/global-questions
 
 ## 📄 Proposition d'une API
 
-![technical proposition image](img/api.png)
+![technical proposition image](/img/api.png)
 
 Pour construire notre API, le choix s'est porté sur l'architecture RESTful, en raison de ses caractéristiques particulièrement adaptées à nos exigences. Voici pourquoi cette architecture est au cœur de notre projet :
 
@@ -36,7 +36,7 @@ L'implémentation de REST dans notre projet a pour but proposer une API qui soit
 
 ## ⚛️ Proposition de langage
 
-![technical proposition image](img/symfony.png)
+![technical proposition image](/img/symfony.png)
 
 Le choix de PHP Symfony au lieu d'autres languages a été guidé par plusieurs considérations essentielles.
 
@@ -54,7 +54,7 @@ Ce document peut être consulté en cliquant <a href="benchmark/back-end-framewo
 
 ## 🎨 Proposition de Framework Front-End
 
-![technical proposition image](img/front-end.jpg)
+![technical proposition image](/img/front-end.jpg)
 
 Le choix de React couplé à TypeScript au lieu de Vue.js a été guidé par plusieurs raisons clés.
 D'une part, React est une bibliothèque JavaScript de création d'interfaces utilisateur développée par Facebook. Sa popularité et son large écosystème offrent une grande variété de ressources, y compris une communauté active et des bibliothèques complémentaires robustes. L'architecture basée sur les composants de React permet une réutilisation efficace du code et une meilleure gestion de l'état de l'application, facilitant le développement d'applications complexes et dynamiques.
@@ -68,7 +68,7 @@ Ce document peut être consulté en cliquant <a href="benchmark/front-end-framew
 
 ## 📑 Proposition de base de donnée
 
-![technical proposition image](img/postgre.png)
+![technical proposition image](/img/postgre.png)
 
 Notre choix s'est porté sur PostgreSQL comme solution de gestion de base de données pour notre projet, pour plusieurs raisons notables :
 
@@ -81,7 +81,7 @@ Convaincus par ces atouts, nous avons déterminé que PostgreSQL représente la 
 
 ## 💡 Proposition d'ORM
 
-![technical proposition image](img/orm.jpg)
+![technical proposition image](/img/agile-scrum.jpg)
 
 Nous avons décidé d'opter pour Doctrine ORM de Symfony comme interface de mappage objet-relationnel (ORM) pour faciliter et sécuriser les interactions entre notre application et les bases de données. Voici les raisons qui ont guidé notre choix vers Doctrine :
 
@@ -102,7 +102,7 @@ Firefox, développé par Mozilla, une organisation à but non lucratif, joue ég
 
 ## 🛡️ Stratégie de sécurisation
 
-![](img/cybersecurity.png)
+![](/img/cybersecurity.png)
 
 Notre stratégie multicouche se concentre sur la prévention, la détection et la réponse aux menaces, s'appuyant sur les bonnes pratiques de développement et les recommandations de l'ANSSI et de la CNIL.
 

@@ -43,7 +43,7 @@ Notre analyse et notre proposition de stratégie sont détaillées dans ce docum
 
 ## 👩🏻‍💻 Difficulté pour les administrateurs du club à suivre l'utilisation des terrains et leurs disponibilités
 
-![](img/available-court.jpeg)
+![](/img/available-court.jpeg)
 
 Au cours de discussions avec les administrateurs du club, nous avons identifié une problématique majeure : les difficultés à suivre l'utilisation des terrains et leurs disponibilités. Cette situation peut entraîner des conflits de réservation, une mauvaise gestion des installations sportives et une insatisfaction des membres du club. Il est essentiel pour un club de connaître en temps réel les disponibilités des terrains de jeu afin de pouvoir offrir un bon service à la clientèle et de répondre efficacement aux demandes de réservation.
 
@@ -56,7 +56,7 @@ Les administrateurs pourront accéder à une liste de clients pour avoir un suiv
 
 ## 🔎 Difficultés pour trouver des partenaires de jeu ayant un niveau similaire et des disponibilités horaires compatibles
 
-![](img/match-timetable.jpg)
+![](/img/match-timetable.jpg)
 
 Au cours de nos échanges avec le personnel administratif du club, nous avons constaté que de nombreux adhérents ne réservent pas de terrains, bien qu'ils soient motivés pour jouer. Le club Bad's dispose de différents terrains pour pratiquer trois sports de raquette en intérieur : le badminton, le squash et le tennis de table. En effet, les terrains du club sont principalement destinés à la pratique de sports en couple, et le manque de partenaire peut dissuader certains clients de réserver.
 
@@ -69,7 +69,7 @@ En somme, le développement d'un système de matching pour trouver un partenaire
 
 ## 🎯 Concrétiser l’organisation des parties
 
-![](img/match-organisation.jpg)
+![](/img/match-organisation.jpg)
 
 Dans le club, les adhérents réservent généralement des terrains pour jouer avec un partenaire régulier. Pour les adhérents qui n'ont pas encore de partenaire de jeu et souhaitent réserver un terrain, comme mentionné précédemment, notre application propose un algorithme de matching pour les aider à trouver un partenaire potentiel. Lorsqu'un partenaire potentiel est trouvé, l'adhérent reçoit une notification pour lui proposer de jouer avec cette personne. Si l'adhérent accepte la proposition, l'application enverra une notification au partenaire potentiel pour confirmer s'il est toujours intéressé par la réservation d'un terrain.
 De plus pour garantir la disponibilité du terrain, nous recommandons que la réservation soit effectuée au moins 8 jours à l'avance. Cette mesure permettra également aux adhérents de s'organiser plus facilement et de planifier leur partie en conséquence.
@@ -78,7 +78,7 @@ Cette fonctionnalité permettra de concrétiser les parties, d'aider les adhére
 
 ## 🔔 Savoir lorsqu’une réservation est confirmée ou annulée
 
-![](img/confirmation.jpg)
+![](/img/confirmation.jpg)
 
 Dans l'état actuel des choses, il est possible qu'il y ait une erreur humaine lors de la mise à jour du statut d'une réservation pour le club, car celui-ci ne dispose pas d'un système de gestion des réservations.
 
@@ -98,7 +98,7 @@ Cette mesure vise à prévenir les annulations de dernière minute et à garanti
 
 ## 👍 Évaluation des partenaires de jeu
 
-![](img/rating.jpg)
+![](/img/rating.jpg)
 
 Pour améliorer les interactions entre joueurs, nous introduisons une fonctionnalité de "like" ou "dislike" après chaque match dans notre application. À la fin de chaque partie, les joueurs pourront évaluer leurs partenaires, influençant ainsi les recommandations futures du système de matching.
 
@@ -108,7 +108,7 @@ Cette fonctionnalité vise à donner aux joueurs un contrôle plus direct sur le
 
 # 👤 Identification des personas
 
-![](img/targets.png)
+![](/img/targets.png)
 
 ## 🙋 La persona visiteur
 

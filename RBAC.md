@@ -1,3 +1,5 @@
+# 🔐 RBAC
+
 | Permissions                                          | Visiteur | Membre | Administrateur |
 |------------------------------------------------------|:--------:|:------:|:--------------:|
 | **Voir les informations générales du club**          |    ✅    |   ✅   |       ✅       |

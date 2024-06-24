@@ -1,6 +1,6 @@
 # Proposition technique pour la réalisation du projet
 
-![technical proposition image](assets/imgs/work-office.jpg)
+![technical proposition image](/img/work-office.jpg)
    
 Dans cette présentation technique, nous détaillerons les choix techniques retenus pour chaque composante du projet, en expliquant les raisons qui ont motivé ces choix. Nous présenterons également l'architecture technique globale du projet, ainsi que les différentes étapes de développement prévues.
 
@@ -19,7 +19,7 @@ Cette présentation technique a pour objectif de fournir une vision claire et pr
 
 ## 📄 Proposition d'une API
 
-![technical proposition image](assets/imgs/api.png)
+![technical proposition image](/img/api.png)
 
 Pour construire notre API, le choix s'est porté sur l'architecture RESTful, en raison de ses caractéristiques particulièrement adaptées à nos exigences. Voici pourquoi cette architecture est au cœur de notre projet :
 
@@ -32,7 +32,7 @@ L'implémentation de REST dans notre projet a pour but proposer une API qui soit
 
 ## ⚛️ Proposition de langage
 
-![technical proposition image](assets/imgs/symfony.png)
+![technical proposition image](/img/symfony.png)
 
 Le choix de PHP Symfony au lieu d'autres frameworks a été guidé par plusieurs considérations essentielles.
 
@@ -46,11 +46,11 @@ De plus, l'écosystème Symfony est compatible avec un large éventail d'outils 
 
 En somme, PHP Symfony se distingue comme un framework performant et polyvalent, apportant une structure rigoureuse, une documentation exhaustive, et une compatibilité étendue au développement PHP. Ces atouts font de lui le choix privilégié pour notre projet, nous permettant de construire une application fiable, maintenable, et prête pour l'avenir.
 
-Ce document peut être consulté en cliquant <a href="benchmark/back-end-framework.md">ici</a>.
+Ce document peut être consulté en cliquant <a href="back-end-framework.md">ici</a>.
 
 ## 🎨 Proposition de Framework Front-End
 
-![technical proposition image](assets/imgs/front-end.jpg)
+![technical proposition image](/img/front-end.jpg)
 
 Le choix de React couplé à TypeScript au lieu de Vue.js a été guidé par plusieurs raisons clés.
 D'une part, React est une bibliothèque JavaScript de création d'interfaces utilisateur développée par Facebook. Sa popularité et son large écosystème offrent une grande variété de ressources, y compris une communauté active et des bibliothèques complémentaires robustes. L'architecture basée sur les composants de React permet une réutilisation efficace du code et une meilleure gestion de l'état de l'application, facilitant le développement d'applications complexes et dynamiques.
@@ -60,11 +60,11 @@ L'association de React avec TypeScript, un langage développé par Microsoft, re
 La combinaison React et TypeScript nous offre une solution robuste pour construire des applications à grande échelle, en tirant parti de la vérification de type au moment de la compilation et d'une architecture orientée composants. De plus, TypeScript améliore la lisibilité et la maintenabilité du code, des atouts précieux pour le travail en équipe et la pérennité des projets.
 En somme, l'alliance de React et TypeScript s'aligne avec notre vision de créer des applications web modernes, performantes et facilement maintenables. Cet assemblage s'est avéré être le plus adapté à nos exigences, offrant à la fois flexibilité, sécurité de type et une vaste communauté de support.
 
-Ce document peut être consulté en cliquant <a href="benchmark/front-end-frameworks.md">ici</a>.
+Ce document peut être consulté en cliquant <a href="front-end-frameworks.md">ici</a>.
 
 ## 📑 Proposition de base de données
 
-![technical proposition image](assets/imgs/postgre.png)
+![technical proposition image](/img/postgre.png)
 
 Notre choix s'est porté sur PostgreSQL comme solution de gestion de base de données pour notre projet, pour plusieurs raisons notables :
 
@@ -77,7 +77,7 @@ Convaincus par ces atouts, nous avons déterminé que PostgreSQL représente la 
 
 ## 💡 Proposition d'ORM
 
-![technical proposition image](assets/imgs/orm.jpg)
+![technical proposition image](/img/orm.jpg)
 
 Nous avons décidé d'opter pour Doctrine ORM de Symfony comme interface de mappage objet-relationnel (ORM) pour faciliter et sécuriser les interactions entre notre application et les bases de données. Voici les raisons qui ont guidé notre choix vers Doctrine :
 
@@ -91,4 +91,4 @@ Nous avons décidé d'opter pour Doctrine ORM de Symfony comme interface de mapp
 
 En conclusion, Doctrine ORM se présente comme une solution robuste et versatile pour notre projet, alliant sécurité, efficacité et facilité d'utilisation. Sa forte intégration avec Symfony, couplée à son large éventail de fonctionnalités, en fait le choix idéal pour une gestion optimale de nos données.
 
-Ce document peut être consulté en cliquant <a href="benchmark/orm.md">ici</a>.
+Ce document peut être consulté en cliquant <a href="orm.md">ici</a>.

@@ -9,7 +9,7 @@ Cette plateforme a pour but de centraliser des infos de manière collaborative a
 3. [Cahier des charges](./cahier-des-charges.md)
 4. [Gestion de projet](/Gestion-de-projet/gestion-de-projet.md)
 5. [Spécifications fonctionnelles](./Specifications-fonctionelles/specifications-fonctionelles.md)
-6. [Spécifications techniques](./specifications-techniques.md)
+6. [Spécifications techniques](./Specifications-techniques/specifications-techniques.md)
 7. [Réalisations](#Réalisations)
 8. [Présentation du jeu d’essai](#Présentation-du-jeu-d’essai)
 9. [Veille](#Veille)

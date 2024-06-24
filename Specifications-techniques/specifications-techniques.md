@@ -1,7 +1,5 @@
 # 📣 Spécifications techniques
 
-- [Stratégie de sécurisation](./strategie-de-securisation.md)
-
 - [Questions Globales](/Specifications-techniques/Benchmark/questions-globales.md)
 - [Identification des technologies](/Specifications-techniques/identification-des-technologies.md)
 

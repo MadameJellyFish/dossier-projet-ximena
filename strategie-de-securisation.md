@@ -1,6 +1,6 @@
 # 🛡️ Stratégie de sécurisation
 
-![](assets/imgs/cybersecurity.png)
+![](/imgs/cybersecurity.png)
 
 ## Abstract
 

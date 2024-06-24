@@ -3,7 +3,7 @@
 ## 📌 Introduction
 Nous avons choisi d'adopter la **méthodologie agile SCRUM** pour notre projet. Ce choix s'est avéré particulièrement pertinent grâce à sa **grande flexibilité** et **efficacité**. SCRUM est aussi **très populaire** et **largement adoptée**, reconnue pour sa **gestion dynamique** et **adaptative** des projets de développement.
 
-![Méthode cascade](/doc/assets/imgs/agile-scrum.jpg)
+![Méthode cascade](/img/agile-scrum.jpg)
 
 <details>
 <summary>📜 Méthodologie Agile : Définition et Fondements</summary><p>La méthode agile est une <b>méthode de gestion de projet</b>, centrée sur la <b>flexibilité</b> et la <b>performance centrée sur l'humain et la communication</b>.</p>
@@ -37,8 +37,8 @@ Nous avons choisi d'adopter la **méthodologie agile SCRUM** pour notre projet. 
 - Itération / Incrémentation : SCRUM organise le travail en cycles courts appelés "sprints", qui segmentent le travail en portions gérables et permettent des ajustements fréquents. Chaque sprint se conclut par la création d'une version utilisable du produit, enrichie de nouvelles fonctionnalités, assurant ainsi que le projet évolue en accord avec les attentes du client.
 
 ## 🔄 Les autres méthodes
-Nous avons également envisagé d'autres méthodologies, comme la gestion de projet en : <details><summary>cascade (Waterfall) +</summary>![Méthode cascade](/doc/assets/imgs/waterfall-method.jpg)</details>
-ou en : <details><summary>V +</summary>![Méthode cascade](/doc/assets/imgs/v-method.jpg)</details>Les deux méthodes proposent un processus plus rigide, linéaire et rendent les modifications difficiles et coûteuses une fois le projet entamé, ce qui peut limiter la capacité de l'équipe à répondre aux besoins changeants et aux retours des clients.
+Nous avons également envisagé d'autres méthodologies, comme la gestion de projet en : <details><summary>cascade (Waterfall) +</summary>![Méthode cascade](img/waterfall-method.jpg)</details>
+ou en : <details><summary>V +</summary>![Méthode cascade](/img/v-method.jpg)</details>Les deux méthodes proposent un processus plus rigide, linéaire et rendent les modifications difficiles et coûteuses une fois le projet entamé, ce qui peut limiter la capacité de l'équipe à répondre aux besoins changeants et aux retours des clients.
 
 D'autres méthodes agiles comme Kanban et XP ont aussi été envisagées. Kanban mise sur une livraison continue et une gestion souple des tâches, tandis que XP privilégie les cycles de développement courts, le travail en binôme et la révision de code. Bien que chaque méthode comporte son lot d'avantages et d'inconvénients, nous avons opté pour Scrum pour toutes les raisons évoquées plus haut.
 

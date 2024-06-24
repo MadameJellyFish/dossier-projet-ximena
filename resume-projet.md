@@ -1,4 +1,4 @@
-Resume projet
+# Resume projet
 
 The Bad's Club, located in Lyon's 7th arrondissement near the Jean Macé metro station, is a fully sports and lounge space of over 1,500m2. With 4 badminton courts, 5 squash courts and 4 table tennis courts, the club offers a variety of sporting activities for all levels.
 

@@ -9,3 +9,10 @@ Les réservations des terrains et la fidélisation des clients sont des enjeux m
 Cependant, trouver un partenaire de jeu peut parfois être un obstacle pour les clients souhaitant réserver un terrain. Pour cela il est cruciel d’offrir aux clients une solution qui leur facilitera la recherche de partenaires de jeu et ainsi, se démarquer de la concurrence et insiter les adherants à revenir régulièrement.
 
 En proposant une expérience de réservation fluide et en offrant la possibilité aux adherants de trouver des partenaires de jeu adaptés à leur niveau, le Bad's Club pourra se différencier de la concurrence et fidéliser sa clientèle.
+
+
+# Enjeux
+
+- Financier : Une meilleure gestion des réservations permettra d'augmenter le taux d'occupation des terrains, ce qui se traduira par une augmentation des revenus pour le Bad's Club.
+- Expérience utilisateur optimisée : En offrant une expérience utilisateur simple sur le site et l’application du club, celui-ci peut fidéliser ses membres actuels et attirer de nouveaux adhérents plus facilement.
+- Matching personnalisé : Développer des algorithmes de matching avancés qui prennent en compte les préférences individuelles des utilisateurs, comme le niveau de jeu, les disponibilités, les sports pratiqués préférés, afin de leur proposer des partenaires de jeu adaptés à leurs besoins et à leur niveau d'expérience.

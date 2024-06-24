@@ -44,7 +44,7 @@ Avant de détailler les mesures spécifiques, il est important d’introduire tr
 
 Symfony et React, accompagnés de TypeScript, offrent déjà plusieurs fonctionnalités et pratiques de sécurisation alignées sur les recommandations du guide de l'ANSSI. Voici quelques exemples :
 
-- Contrôle d’Accès Basé sur les Rôles - Role Based Access Control **(RBAC)** : Celui ci s’appuie sur le principe de sécurisation du « moindre privilège » et par défaut Symfony propose déjà un système de contrôle d’accès basé sur les rôles très flexible et qui assure que seuls les utilisateurs autorisés obtiennent l’accès aux fonctionnalités et informations sensibles de l’application. Ce document peut être consulté en cliquant <a href="RBAC.md">ici</a>.
+- Contrôle d’Accès Basé sur les Rôles - Role Based Access Control **(RBAC)** : Celui ci s’appuie sur le principe de sécurisation du « moindre privilège » et par défaut Symfony propose déjà un système de contrôle d’accès basé sur les rôles très flexible et qui assure que seuls les utilisateurs autorisés obtiennent l’accès aux fonctionnalités et informations sensibles de l’application. Ce document peut être consulté en cliquant <a href="./RBAC.md">ici</a>.
 
 - Protection contre les attaques Cross-Site Request Forgery **(CSRF)** : Symfony intègre par défaut une protection contre les attaques CSRF, qui prévient les attaques où un site malveillant pourrait forcer un utilisateur à exécuter des actions indésirées sur un site web où il est authentifié
 

@@ -1,5 +1,5 @@
 # 📋 Règles de Gestion
-![gestion rules image](assets/imgs/rules.jpg)
+![gestion rules image](Img/rules.jpg)
 
 # Profil User
 - Le User contient un nom

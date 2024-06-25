@@ -1,6 +1,6 @@
 # 👤 Identification des personas
 
-![](/img/targets.png)
+![Personas](/Img/targets.png)
 
 ## 🙋 La persona visiteur
 

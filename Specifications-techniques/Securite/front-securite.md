@@ -1,6 +1,8 @@
 ## 🛡️ Stratégie de sécurisation du front-end
 
-![Stratégie de sécurisation du front-end](/img/cybersecurity.png)
+![Stratégie de sécurisation du front-end](/Img/cybersecurity.png)
+
+## Trois piliers
 
 Avant de détailler les mesures spécifiques, il est important d’introduire trois concepts fondamentaux de notre stratégie de sécurisation qui est le concept des « trois piliers » :
 
@@ -10,11 +12,11 @@ Avant de détailler les mesures spécifiques, il est important d’introduire tr
 
 - Moindre privilèges : Le principe de moindre privilège consiste à limiter les droits et à ne donner les permissions qu'aux personnes autorisées. (exemple un utilisateur « lambda » ne pourra pas avoir accès aux données administrateur.)
 
-Validation des Formulaires / Nettoyage
+### Validation des Formulaires / Nettoyage
 
 Pour garantir la validité des données, nous appliquerons des méthodes de nettoyage à la fois sur le front-end et l'API back-end, nettoyant toutes les données saisies pour prévenir les injections SQL et XSS. De plus, des tokens uniques seront générés pour chaque formulaire afin de contrer les attaques CSRF. Pour éviter les injections SQL, nous utiliserons un ORM (Doctrine ORM, recommandé par Symfony) ainsi que des requêtes préparées, ajoutant ainsi une couche supplémentaire de protection.
 
-SOP, CORS, CSP, SRI
+### SOP, CORS, CSP, SRI
 
 - SOP (Same-Origin Policy) : Politique de sécurité mise en œuvre par les navigateurs web pour prévenir les attaques XSS. Elle restreint l'accès et l'interaction des scripts entre différentes origines, définies par le protocole, le domaine et le port. Grâce à la SOP, un script d'une origine donnée ne peut pas lire ou modifier les données d'une autre origine sans autorisation explicite, protégeant ainsi les cookies et les données sensibles des utilisateurs contre les accès malveillants.
 

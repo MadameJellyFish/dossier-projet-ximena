@@ -1,6 +1,6 @@
 🛡️Stratégie de sécurisation de l'API
 
-![Stratégie de sécurisation](/img/cybersecurity.png)
+![Stratégie de sécurisation](/Img/cybersecurity.png)
 
 Notre API développée avec PHP Symfony est l'interface entre notre application et les données stockées dans la base de données. 
 

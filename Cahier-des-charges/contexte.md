@@ -13,6 +13,9 @@ En proposant une expérience de réservation fluide et en offrant la possibilit�
 
 # Enjeux
 
-- Financier : Une meilleure gestion des réservations permettra d'augmenter le taux d'occupation des terrains, ce qui se traduira par une augmentation des revenus pour le Bad's Club.
-- Expérience utilisateur optimisée : En offrant une expérience utilisateur simple sur le site et l’application du club, celui-ci peut fidéliser ses membres actuels et attirer de nouveaux adhérents plus facilement.
+- Financier : Une meilleure gestion des réservations permettra d'optimiser l'utilisation des terrains et d'augmenter le taux d'occupation. Cela se traduira par une augmentation des revenus pour le Bad's Club, grâce à une utilisation plus efficace des ressources disponibles.
+
+- Expérience utilisateur optimisée : En offrant une expérience utilisateur simple  et intuitive sur l’application du club, celui-ci peut fidéliser ses membres actuels et attirer de nouveaux adhérents plus facilement. L'application permettra de réserver des terrains en quelques clics, de consulter les disponibilités en temps réel et de recevoir des notifications pour les réservations et les annulations.
+
 - Matching personnalisé : Développer des algorithmes de matching avancés qui prennent en compte les préférences individuelles des utilisateurs, comme le niveau de jeu, les disponibilités, les sports pratiqués préférés, afin de leur proposer des partenaires de jeu adaptés à leurs besoins et à leur niveau d'expérience.
+Cette fonctionnalité innovante permettra de créer une communauté de joueurs engagés et actifs, ce qui se traduira par une augmentation des revenus récurrents pour le club. En effet, les membres seront plus enclins à renouveler leur adhésion et à recommander le club à leur entourage.

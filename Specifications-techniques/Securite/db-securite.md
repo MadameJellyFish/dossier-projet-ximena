@@ -1,6 +1,6 @@
 🛡️ Stratégie de sécurisation de la base de données
 
-![](/img/cybersecurity.png)
+![Stratégie de sécurisation](/Img/cybersecurity.png)
 
 Notre application utilise une base de données pour stocker les données sensibles de nos utilisateurs, telles que leurs informations personnelles, leurs coordonnées et les données de paiement. Pour assurer la protection de ces données, nous avons mis en place les mesures suivantes :
 

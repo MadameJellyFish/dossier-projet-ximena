@@ -1,6 +1,6 @@
 ## 📑 Proposition de base de donnée
 
-![technical proposition image](/img/postgre.png)
+![technical proposition image](/Img/postgre.png)
 
 Notre choix s'est porté sur PostgreSQL comme solution de gestion de base de données pour notre projet, pour plusieurs raisons notables :
 

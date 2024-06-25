@@ -7,4 +7,4 @@ L'équipe est constituée de 2 membres :
 
 Nous travaillons donc en Méthode Agile (SCRUM) qui est une méthodologie utilisée au sein des entreprises dans la majorité des cas.
 
-Note : Le **Product Owner** ainsi que le Scrum Master aient également pour rôle de développer, certaines responsabilités sont propres à ces rôles spécifiques.
+Note : Le **Product Owner** ainsi que le **Scrum Master** aient également pour rôle de développer, certaines responsabilités sont propres à ces rôles spécifiques.

@@ -1,7 +1,8 @@
-## 📑 Proposition de base de donnée
+## 📑 Proposition de base de données
 
-![technical proposition image](/Img/postgre.png)
+![PostgreSQL](/Img/postgre.png)
 
+PostgreSQL et MySQL sont deux systèmes de gestion de bases de données relationnelles populaires et largement utilisés.
 Notre choix s'est porté sur PostgreSQL comme solution de gestion de base de données pour notre projet, pour plusieurs raisons notables :
 
 - **Solidité éprouvée :** L'utilisation de PostgreSQL dans des projets d'envergure, comme Instagram, atteste de sa fiabilité.

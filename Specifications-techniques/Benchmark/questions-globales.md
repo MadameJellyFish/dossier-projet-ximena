@@ -14,4 +14,3 @@ Ce tableau récapitulatif présente une série de questions essentielles qui ont
 | • Front-End      | TypeScript - REACT      |
 | • Back-End       | PHP (Symfony)           |
 | • ORM            | Doctrine ORM            |
-| BDD              | PostgreSQL (SQL Relationnelle) |

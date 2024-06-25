@@ -1,11 +1,14 @@
 # 📣 Spécifications techniques
 
+
+- [Decoupage de l'app en couche N-tiers]
 - [Questions Globales](/Specifications-techniques/Benchmark/questions-globales.md)
-- [Identification des technologies](/Specifications-techniques/identification-des-technologies.md)
+<!-- - [Identification des technologies](/Specifications-techniques/identification-des-technologies.md) -->
 
 ## Back-end
 
 ### Base de données
+- [RGPD]
 - [Strategie de sécurisation](/Specifications-techniques/Securite/db-securite.md)
 - [Choix de base de données](/Specifications-techniques/Benchmark/db.md)
 - [MCD](/img/MCD.jpg)

@@ -1,0 +1,3 @@
+- Listening des grands fails
+- Leçons appris, des fails
+- Si on devait recommencer

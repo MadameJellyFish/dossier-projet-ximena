@@ -1,4 +1,4 @@
-🛡️ Stratégie de sécurisation de la base de données
+# 🛡️ Stratégie de sécurisation de la base de données
 
 ![Stratégie de sécurisation](/Img/cybersecurity.png)
 

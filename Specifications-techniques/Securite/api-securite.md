@@ -1,4 +1,4 @@
-🛡️Stratégie de sécurisation de l'API
+# 🛡️Stratégie de sécurisation de l'API
 
 ![Stratégie de sécurisation](/Img/cybersecurity.png)
 

@@ -22,7 +22,7 @@
 - [Diagramme de séquence]
 - [Diagramme de classe]
 
-## Clients
+## 💁 Clients
 
 ### Front-end
 - [Strategie de sécurisation Front](/Specifications-techniques/Securite/front-securite.md)
@@ -35,5 +35,3 @@
 - [Choix stack mobile]
 - [wireframes]
 - [mockups]
-
-## Autres outils

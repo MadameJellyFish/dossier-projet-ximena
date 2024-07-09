@@ -17,21 +17,21 @@
 ### API
 - [Strategie de sécurisation API](/Specifications-techniques/Securite/api-securite.md)
 - [Choix stack API](/Specifications-techniques/Benchmark/api.md)
-- [Cas d'utilisation]
-- [Diagramme d'activité]
-- [Diagramme de séquence]
-- [Diagramme de classe]
+- [Cas d'utilisation](/Specifications-techniques/UML/cas-utilisation.md)
+- [Diagramme d'activité](/Specifications-techniques/UML/diagramme-activite.md)
+- [Diagramme de séquence](/Specifications-techniques/UML/digramme-sequence.md)
+- [Diagramme de classe](/Specifications-techniques/UML/diagramme-classe.md)
 
 ## 💁 Clients
 
 ### Front-end
 - [Strategie de sécurisation Front](/Specifications-techniques/Securite/front-securite.md)
 - [Choix stack front](/Specifications-techniques/Benchmark/front.md)
-- [wireframes]
-- [mockups]
+- [Wireframes]
+- [Mockups]
 
 ### Mobile
 - [Strategie de sécurisation mobile]
 - [Choix stack mobile]
-- [wireframes]
-- [mockups]
+- [Wireframes]
+- [Mockups]

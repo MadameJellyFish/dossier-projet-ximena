@@ -6,5 +6,5 @@ Nous avons réalisé deux diagrammes différents pour analyser et optimiser les 
 
 En visualisant les schémas, nous rendons le chemin à suivre plus clair et facilitons le développement de l'application.
 
-[Diagramme d'activité pour l'authentification et l'inscription des utilisateurs](/img/diagramme-activite-auth.jpg)
+[Diagramme d'activité pour l'authentification et l'inscription des utilisateurs](/img/diagramme-activite-auth.jpg)<br>
 [Diagramme d'activité pour la gestion de l'abonnement](/img/diagramme-activite-abonnement.jpg)

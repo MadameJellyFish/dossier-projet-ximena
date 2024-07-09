@@ -1,6 +1,6 @@
 # 📄 Proposition d'une API
 
-![API](/Img/api.png)
+![API](/img/api.png)
 
 Pour construire notre API, le choix s'est porté sur l'architecture RESTful plutôt qu'une API GraphQL. 
 

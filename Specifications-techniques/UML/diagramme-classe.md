@@ -4,4 +4,4 @@ Le diagramme de classes de l'application fournit une représentation graphique d
 
 Les principales classes incluent Utilisateur, Membre, Adresse, Réservation, NotationMembre, BannissementMembre, Administrateur, Sport, TerrainDeSport, DisponibilitéTerrain, SportMembre, DisponibilitésMembre et Jour. Chaque classe intègre les attributs et les comportements propres à son entité, ce qui facilite la gestion et la manipulation des informations par les utilisateurs et le système. Ce modèle de données assure une organisation claire et une interaction fluide entre les différents composants de l'application.
 
-[Diagramme de classe](/Img/diagramme-classe.jpg)
+[Diagramme de classe](/img/diagramme-classe.jpg)

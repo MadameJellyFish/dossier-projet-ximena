@@ -1,6 +1,6 @@
 # 🔄 Choix de la Méthodologie de gestion de projet
 
-![Méthode cascade](/Img/agile-scrum.jpg)
+![Méthode cascade](/img/agile-scrum.jpg)
 
 Nous avons choisi d'adopter la **méthodologie agile SCRUM** pour notre projet. Ce choix s'est avéré particulièrement pertinent grâce à sa **grande flexibilité** et **efficacité**. SCRUM est aussi **très populaire** et **largement adoptée**, reconnue pour sa **gestion dynamique** et **adaptative** des projets de développement. Nous avons également une expérience pratique avec cette méthode grâce à notre travail en entreprise durant notre alternance, ce qui facilite son intégration dans notre projet.
 

@@ -1,6 +1,6 @@
 # 🎨 Proposition de Framework Front-End
 
-![Technical proposition image](/Img/front-end.jpg)
+![Technical proposition image](/img/front-end.jpg)
 
 Dans la suite de notre analyse, nous nous concentrons sur les frameworks Front-end. Un **Benchmark** approfondi a été réalisé, permettant de comparer les différentes solutions du marché selon des critères essentiels : documentation, bonnes pratiques et soutien de la communauté de développeurs.
 Un tableau comparatif suit cette introduction, détaillant les résultats de notre benchmark. Les scores, allant de 1 à 3, ont été attribués à chaque option avec 1 étant le score le plus bas et 3 le plus élevé. Les scores attribués à chaque option révèlent le choix optimal.

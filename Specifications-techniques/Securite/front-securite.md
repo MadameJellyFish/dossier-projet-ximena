@@ -1,6 +1,6 @@
 # 🛡️ Stratégie de sécurisation du front-end
 
-![Stratégie de sécurisation du front-end](/Img/cybersecurity.png)
+![Stratégie de sécurisation du front-end](/img/cybersecurity.png)
 
 Nous avons choisi d'utiliser React, accompagné de TypeScript, pour développer notre interface utilisateur. Cette combinaison offre non seulement une grande flexibilité et une robustesse accrue, mais aussi des outils et des pratiques de sécurité intégrés qui nous permettent de protéger efficacement notre application front-end.
 

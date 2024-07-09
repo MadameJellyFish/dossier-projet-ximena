@@ -1,6 +1,6 @@
 ## 📑 Proposition de base de données
 
-![PostgreSQL](/Img/postgre.png)
+![PostgreSQL](/img/postgre.png)
 
 PostgreSQL et MySQL sont deux systèmes de gestion de bases de données relationnelles populaires et largement utilisés.
 Notre choix s'est porté sur PostgreSQL comme solution de gestion de base de données pour notre projet, pour plusieurs raisons notables :

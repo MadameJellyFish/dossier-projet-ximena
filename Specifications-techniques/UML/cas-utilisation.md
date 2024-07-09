@@ -6,4 +6,4 @@ Les principaux cas d'utilisation incluent la création, la modification et la ge
 
 Ce diagramme offre une vue d'ensemble des fonctionnalités principales de l'application et de la manière dont les différents acteurs interagissent avec celles-ci. Il met en évidence les divers cas d'utilisation qui répondent aux besoins fonctionnels du système.
 
-[Use case](/Img/cas-utilisation.jpg)
+[Use case](/img/cas-utilisation.jpg)

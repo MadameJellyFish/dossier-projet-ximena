@@ -1,6 +1,6 @@
 # 🛡️ Stratégie de sécurisation de la base de données
 
-![Stratégie de sécurisation](/Img/cybersecurity.png)
+![Stratégie de sécurisation](/img/cybersecurity.png)
 
 Notre application utilise une base de données pour stocker les données sensibles de nos utilisateurs, telles que leurs informations personnelles, leurs coordonnées et les données de paiement. Nous avons choisi de développer la base de données avec PostgreSQL.
 

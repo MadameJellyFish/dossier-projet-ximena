@@ -2,7 +2,7 @@
 
 Pour assurer la scalabilité, la maintenabilité et l'évolutivité de notre application, nous avons choisi d'adopter une architecture N-tier. Cette approche consiste à séparer l'application en plusieurs couches de responsabilité logiques, chacune étant responsable d'une tâche spécifique et pouvant être développée et mise à jour indépendamment des autres couches.
 
-Notre application sera découpée en trois couches distinctes <br>:
+Notre application sera découpée en trois couches distinctes : <br>
 
 - Couche de base de données
 <br>La première couche sera la couche de base de données, qui stockera toutes les informations nécessaires au fonctionnement de l'application. 

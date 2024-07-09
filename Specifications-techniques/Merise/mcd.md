@@ -6,4 +6,4 @@ Grâce au MCD, nous avons pu identifier les différentes entités de notre syst�
 
 Pour cette étape, nous avons utilisé l'outil Looping.
 
-[MCD](/Img/MCD.jpg)
+[MCD](/img/MCD.jpg)

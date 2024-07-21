@@ -4,14 +4,16 @@
 # Profil User
 - Le User contient un nom
 - Le User contient un prénom
-- Le User contient une date de naisance
-- Le User une adresse mail, qui sera utilisée pour la communication et la récupération de compte
+- Le User contient une adresse postale
+- Le User peut contenir une photo (facultative)
+- Le User peut contenir un abonement (facultative)
+- Le User contient une adresse mail unique, qui sera utilisée pour la communication et la récupération de compte
 - Le User contient un mot de passe sécurisé pour l'authentification. Le mot de passe doit comporter au moins 8 caractères, incluant des chiffres, des lettres majuscules et minuscules, et des symboles pour renforcer la sécurité
 
 # 👥 Profil Membre
 - Le Membre herite les informations du Profil User
-- Le Membre contient une adresse postale
-- Le Membre peut contenir une photo (facultative)
+- Les User avec une adhésion active peuvent accéder aux fonctionnalités du club
+- Les Membres peuvent faire des réservations
 - Le Membre peut s'inscrire au programme de Match making
 
 # 🔐 Gestion de l'Authentification
@@ -25,14 +27,15 @@
 - L'abonement au club coute 50€ et viens avec tous les fonctionalités de l'application
 - La gestion des paiements doit-être sécurisée et automatisée
 - L'abonnement est renouvelé et débité automatiquement chaque mois
-- Les Membres peuvent annuler leur abonnement à tout moment via leur Profil, avec effet immédiat ou à la fin de la période de facturation courante
+- Les Users peuvent annuler leur abonnement à tout moment via leur Profil, avec effet immédiat ou à la fin de la période de facturation courante
 
 # 🏟️ Gestion de reservations
 - La Réservation contient l'id du Membre qui reserve, la date et le Terrain
-- La Réservation doit être faite au moins 6 heures à l'avance
-- Les Terrains ne peuvent être Réservés que par des Membres
+- La Réservation doit être faite au moins 30 min à l'avance
+- Les Users peuvent effectuer des réservations de terrains uniquement s'ils ont une adhésion active
+- Les réservations doivent avoir un statut mis à jour pour refléter si elles sont en attente, confirmées, annulées, etc.
 - Un Terrain ne peut être Réservé que s'il est disponible
-- Un Membre ne peut pas effectuer plusieurs Réservations pour un même Créneau horaire
+- Un User ne peut pas effectuer plusieurs Réservations pour un même Créneau horaire
 - Affichage en temps réel de la disponibilité des Terrains
 - Une Réservation à une durée de 1h
 
@@ -76,7 +79,7 @@
 - La disponibilité de chaque Terrain est de 8h à 23h
 
 # ⭐ Gestion de la Notation des Partenaires Match making
-- Un Membre peut noter un autre Membre après un match, sur une échelle de 1 à 5 étoiles et ajouter un message
+- Un User peut noter un autre User après un match, sur une échelle de 1 à 5 étoiles et ajouter un message
 - Les notations affichent l'identité du Membre qui la noté
 - Le score moyen de chaque Membre influence les futures propositions sur le match making
 

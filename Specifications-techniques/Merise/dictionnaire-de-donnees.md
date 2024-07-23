@@ -2,7 +2,7 @@
 
 | Entité                      | Attribut                        | Type de donnée | Longueur | Contrainte                               | Description                                                | Exemple                             |
 |-----------------------------|---------------------------------|----------------|----------|------------------------------------------|------------------------------------------------------------|-------------------------------------|
-| Users                       | id                              | INT            | -        | PRIMARY KEY, AUTO_INCREMENT              | Identifiant unique de l'utilisateur                        | 1                                   |
+| Users                       | user_uuid                   | UUID            | -        | PRIMARY KEY, AUTO_INCREMENT              | Identifiant unique de l'utilisateur                        | 1                                   |
 |                             | last_name                       | VARCHAR        | 50       | NOT NULL                                 | Nom de l'utilisateur                                       | 'Dupont'                            |
 |                             | first_name                      | VARCHAR        | 50       | NOT NULL                                 | Prénom de l'utilisateur                                    | 'Jean'                              |
 |                             | birthdate                       | DATE           | -        | REQUIS                                   | Date de naissance de l'utilisateur                         | 1990-01-01                          |

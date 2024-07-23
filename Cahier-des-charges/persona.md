@@ -13,7 +13,7 @@ Bien que son intention initiale ne soit pas directement l'inscription, la facili
 ## 🤾🏻‍♂️ La persona adherant
 
 La persona adhérent hérite des caractéristiques de la persona visiteur.
-L'adherant est un visiteur qui a créé son profil, s'est inscrit au club et a payé l'abonnement mensuel.
+L'adherant est un visiteur qui s'est inscrit au club et a payé l'abonnement mensuel.
 Il se distingue par son engagement actif et sa passion pour les sports de raquette.
 Sa priorité est de réserver et, si nécessaire, d'annuler des terrains, facilitant ainsi une pratique sportive régulière et adaptée à son emploi du temps.
 La persona adhérant il souhaite trouver facilement des partenaires de jeu correspondant à son niveau et son sport de prédilection.

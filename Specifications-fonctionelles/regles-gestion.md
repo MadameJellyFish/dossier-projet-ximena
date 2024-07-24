@@ -1,5 +1,4 @@
 # 📋 Règles de Gestion
-![gestion rules image](Img/rules.jpg)
 
 # Profil User
 - RG1 Le User contient un nom

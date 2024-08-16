@@ -114,7 +114,7 @@ CREATE TABLE users_ratings(
    rating_user_id INTEGER,
    rated_user_id INTEGER,
    rating INTEGER NOT NULL,
-   comment TEXT,
+   comment VARCHAR(70),
    rating_date TIMESTAMP NOT NULL,
    PRIMARY KEY(rating_user_id, rated_user_id),
    FOREIGN KEY(rating_user_id) REFERENCES users(user_uuid),
@@ -124,7 +124,7 @@ CREATE TABLE users_ratings(
 CREATE TABLE users_bans(
    banning_user_id INTEGER,
    banned_user_id INTEGER,
-   reason TEXT,
+   reason VARCHAR(70),
    banned_date TIMESTAMP NOT NULL,
    PRIMARY KEY(banning_user_id, banned_user_id),
    FOREIGN KEY(banning_user_id) REFERENCES users(user_uuid),
